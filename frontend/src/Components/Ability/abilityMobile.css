@@ -1,0 +1,28 @@
+@media screen and (max-width: 600px) {
+  .ability-main {
+    background-color: #ffff;
+    height: 50em;
+    padding-top: 4em;
+  }
+
+  .ability-main h3 {
+    width: 450px;
+    margin-left: 2em;
+    margin-top: 20px;
+    font-weight: normal;
+  }
+
+  .size {
+    width: 120px;
+    height: 140px;
+  }
+  .inline {
+    margin-top: 3em;
+    margin-left: -8em;
+  }
+  .inline li {
+    float: none;
+    margin-right: -5em;
+    list-style-type: none;
+  }
+}

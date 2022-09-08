@@ -1,0 +1,58 @@
+.footer-main {
+  padding-top: 10em;
+  background-color: #333333;
+  color: white;
+  height: 40em;
+}
+.about {
+  float: left;
+  margin-left: 3em;
+}
+.about p {
+  margin-top: 20px;
+  width: 300px;
+  margin-bottom: 5em;
+}
+.coustom-text {
+  background-color: white;
+}
+.about button {
+  height: 58px;
+  width: 120px;
+  background-color: #41cb83;
+  color: white;
+}
+.twitter {
+  float: left;
+  margin-left: 10em;
+}
+
+.twitter li {
+  list-style-type: none;
+  margin-bottom: 4em;
+  margin-top: 1em;
+}
+.twitter p {
+  width: 350px;
+}
+.instegram {
+  float: left;
+  margin-left: 8em;
+}
+.instegram h3{
+  margin-left: -7em;
+  margin-bottom: 1em;
+}
+.instegram ul {
+  width: 250px;
+}
+
+.instegram img {
+  width: 100px;
+  height: 80px;
+}
+.instegram li {
+  list-style-type: none;
+  display: inline-block;
+  padding-right: 10px;
+}

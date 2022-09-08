@@ -1,0 +1,29 @@
+.ImageList {
+  background-color: whitesmoke;
+  height: 600px;
+  padding-top: 4em;
+}
+.ImageList h1,
+h4 {
+  margin-bottom: 20px;
+}
+.ImageList h4 {
+  width: 650px;
+  margin-left: 28em;
+  font-weight: normal;
+}
+.ImageList li {
+  margin-right: 2em;
+  float: left;
+  list-style-type: none;
+}
+.ImageList ul {
+  margin-left: 12em;
+}
+
+#image {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 35px;
+  width: 250px;
+}

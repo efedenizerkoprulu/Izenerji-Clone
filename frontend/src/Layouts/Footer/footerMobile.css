@@ -1,0 +1,45 @@
+@media screen and (max-width: 600px) {
+  .footer-main {
+    height: 65em;
+  }
+  .about {
+    margin-top: -2em;
+    margin-left: 8em;
+  }
+  .about p {
+    margin-top: 20px;
+    width: 300px;
+    margin-bottom: 5em;
+  }
+
+  .twitter {
+    margin-top: 4em;
+    margin-left: 110px;
+  }
+  .twitter li {
+    list-style-type: none;
+    margin-bottom: 4em;
+    margin-top: 1em;
+  }
+  .twitter p {
+    width: 350px;
+  }
+  .instegram {
+    float: left;
+    margin-left: 10em;
+  }
+
+  .instegram ul {
+    width: 250px;
+  }
+
+  .instegram img {
+    width: 100px;
+    height: 80px;
+  }
+  .instegram li {
+    list-style-type: none;
+    display: inline-block;
+    padding-right: 10px;
+  }
+}

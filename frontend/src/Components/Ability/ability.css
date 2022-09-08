@@ -1,0 +1,25 @@
+.ability-main {
+  background-color: white;
+  height: 25em;
+  padding-top: 4em;
+}
+
+.ability-main h3 {
+  width: 650px;
+  margin-left: 23em;
+  margin-top: 20px;
+  font-weight: normal;
+}
+
+.size {
+  width: 220px;
+  height: 140px;
+}
+.inline {
+  margin-top: 3em;
+  margin-left: 22em;
+}
+.inline li {
+  float: left;
+  list-style-type: none;
+}

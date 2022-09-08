@@ -1,0 +1,74 @@
+.main {
+  padding-top: 10px;
+}
+.video h1,
+h4 {
+  margin-bottom: 20px;
+}
+.video h1 {
+  padding-top: 1em;
+  margin-left: 16em;
+}
+.video h4 {
+  width: 650px;
+  margin-left: 25em;
+  font-weight: normal;
+}
+.video button {
+  border-color: #41cb83;
+  color: #41cb83;
+  font-weight: bold;
+  letter-spacing: 3.05px;
+}
+.browser-head {
+  margin-top: 2em;
+  margin-left: 350px;
+  background-color: lightgray;
+  width: 780px;
+  height: 40px;
+  padding: 5px;
+}
+.browser-head li {
+  display: inline;
+}
+.browser-frame img {
+  margin-left: -40px;
+  width: 778px;
+  height: 400px;
+}
+#browser-button-red {
+  width: 30px;
+  height: auto;
+  margin-left: -600px;
+  margin-top: -5px;
+}
+#browser-button-yellow {
+  width: 20px;
+  height: auto;
+  margin-left: -660px;
+  margin-top: -10px;
+}
+
+#browser-button-green {
+  width: 20px;
+  height: auto;
+  margin-left: -730px;
+  margin-top: -10px;
+}
+
+.refarence {
+  background-color: #41cb83;
+  height: 10en;
+}
+.refarence li {
+  display: inline;
+  list-style-type: none;
+  margin-left: 3em;
+}
+.refarence ul {
+  padding: 2em;
+  margin-left: -3em;
+}
+.refarence img {
+  width: 150px;
+}

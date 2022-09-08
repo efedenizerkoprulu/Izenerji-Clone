@@ -1,0 +1,39 @@
+.article-main{
+    background-color: whitesmoke;
+    height: 40em;
+}
+.article-main img{
+    height: 60em;
+    height: 40em;
+    float: left;
+    display: flex;
+}
+.article-item{
+    padding-top: 5em;
+    padding-left: 5em;
+    display: flex;
+}
+.article-item li{
+    list-style-type: none;
+    display: inline;
+    margin-left: 1em;
+    font-weight: bold;
+}
+.article-writing{
+    margin-top: 2em;
+    margin-left: -260px;
+}
+#article-detail{
+    margin-left: 70px;
+    margin-bottom: 10px;
+    width: 320px;
+    height: 20px;
+}
+
+#article-link {
+    color:#41CB83;
+    font-size: 14px;
+    letter-spacing: 3.6px;
+    margin-left: 5em;
+    margin-top: 2em;
+}

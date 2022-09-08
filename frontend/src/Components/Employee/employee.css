@@ -1,0 +1,35 @@
+.employee-main{
+    background-color: whitesmoke;
+    height: 24em;
+}
+.employee-main button{
+    border-color: #41cb83;
+    color: #41cb83;
+    margin-top: 2em;
+    width: 220px;
+    margin-right: 12em;
+}
+.employee-main ul{
+    padding-top: 6em;
+    padding-left: 4em;
+}
+.employee-main li{
+    list-style-type: none;
+    float: left;
+    margin-right: 6em;
+}
+.employee-main li h4, .employee-main li p{
+    margin-bottom: 1em;
+}
+
+#join-nameSurname{
+    float: right;
+    margin-right:  230px;
+}
+#position{
+    font-weight: normal;
+    margin-top: -5px;
+}
+#explanation{
+    width: 350px;
+}

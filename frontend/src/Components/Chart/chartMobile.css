@@ -1,0 +1,19 @@
+@media screen and (max-width: 600px) {
+  .chart-main {
+    padding: 3em;
+    height: 46em;
+  }
+  .chart {
+    float: left;
+    margin-left: 1em;
+  }
+  .chart h1 {
+    font-size: 30px;
+  }
+  .chart h3 {
+    width: 450px;
+    font-weight: normal;
+    margin-top: 1em;
+    margin-bottom: 3em;
+  }
+}

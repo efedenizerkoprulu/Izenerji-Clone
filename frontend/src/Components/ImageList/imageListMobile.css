@@ -1,0 +1,31 @@
+@media screen and (max-width:600px) {
+    .ImageList{
+        background-color: whitesmoke;
+        height: 1300px;
+        padding-top: 4em;
+    }
+    .ImageList h1, h4 {
+        margin-bottom: 20px;
+    }
+    .ImageList h4{
+        width: 450px ;
+        margin-left: 5em;
+        font-weight: normal;
+    }
+    .ImageList li{
+        margin-right: 2em;
+         float: left;
+         list-style-type: none;
+         margin-bottom: 1em;
+    }
+    .ImageList ul{
+       margin-left: 8em;
+    }
+    
+    #image{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 35px;
+    width: 250px;
+    }
+}

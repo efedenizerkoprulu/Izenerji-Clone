@@ -1,0 +1,49 @@
+.header {
+  background-color: #ffff;
+  box-shadow: 0em 5px 5px 0em rgba(180, 174, 174, 0.724);
+}
+.logo {
+  margin: 2em 2em 2em -22em;
+  width: 110px;
+}
+.header ul {
+  float: right;
+  margin: 2em 7em 5em 0em;
+}
+.header li {
+  list-style-type: none;
+  display: inline;
+  margin-right: 1em;
+}
+.header button {
+  border-color: #41cb83;
+  color: #41cb83;
+  font-weight: bold;
+}
+
+.header li:hover {
+  color: #41cb83;
+}
+
+.mobile {
+  display: none;
+}
+.toggle-button {
+  position: absolute;
+  top: 0.75rem;
+  right: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 21px;
+  width: 30px;
+  margin-top: 20px;
+  display: none;
+}
+
+.toggle-button .bar {
+  height: 3px;
+  width: 100%;
+  background-color: #41cb83;
+  border-radius: 10px;
+}

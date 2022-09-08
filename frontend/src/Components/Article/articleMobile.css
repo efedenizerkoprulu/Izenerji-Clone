@@ -1,0 +1,41 @@
+@media screen and (max-width: 600px) {
+  .article-main {
+    background-color: whitesmoke;
+    height: 60em;
+  }
+  .article-main img {
+    width: 36em;
+    height: 20em;
+    float: left;
+    display: flex;
+  }
+  .article-item {
+    padding-top: 5em;
+    padding-left: 13em;
+    display: flex;
+  }
+  .article-item li {
+    list-style-type: none;
+    display: inline;
+    margin-left: 1em;
+    font-weight: bold;
+  }
+  .article-writing {
+    margin-top: 2em;
+    margin-left: -230px;
+  }
+  #article-detail {
+    margin-left: 0em;
+    margin-bottom: 10px;
+    width: 320px;
+    height: 20px;
+  }
+
+  #article-link {
+    color: #41cb83;
+    font-size: 14px;
+    letter-spacing: 3.6px;
+    margin-left: 1em;
+    margin-top: 2em;
+  }
+}

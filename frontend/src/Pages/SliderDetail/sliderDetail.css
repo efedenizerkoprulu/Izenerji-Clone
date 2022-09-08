@@ -1,0 +1,72 @@
+.sliderDetail-main {
+  height: 30em;
+}
+.sliderDetail-main img {
+  float: left;
+  margin-top: 6em;
+  margin-left: 10em;
+  width: 34em;
+}
+
+.sliderDetail {
+  float: left;
+  margin-left: 5em;
+  margin-top: 3em;
+}
+.sliderDetail p {
+  width: 500px;
+  font-size: 20px;
+  margin-top: 1em;
+}
+.sliderDetail h1 {
+  margin-left: 1em;
+  width: 400px;
+  color: #41cb83;
+}
+.video-detail {
+  background-color: whitesmoke;
+  padding-bottom: 2em;
+  padding-top: 8em;
+  height: 30em;
+}
+.video-detail h1 {
+  margin: left;
+margin-left: -15em;
+}
+.video-detail p {
+  width: 650px;
+  margin-left: 22em;
+  margin-top: 20px;
+}
+#play{
+  float: right;
+  margin-top: -4em;
+  margin-right: 18em;
+}
+.video-detail button{
+  background-color: #41cb83;
+  color: white;
+  margin-left: -10em;
+  margin-top: 2em;
+  height: 60px;
+  width: 120px;
+}
+.list{
+  height: 14em;
+  padding-top: 1em;
+  background-color: whitesmoke;
+}
+.list ul{
+  margin-left: 12em;
+}
+.list li{
+float: left;
+margin-left: 2em;
+list-style-type: none;
+}
+.list h3{
+  color: #41cb83;
+}
+.list p{
+  width: 320px;
+}

@@ -1,0 +1,23 @@
+.chart-main {
+  padding: 3em;
+  height: 48em;
+}
+.chart {
+  float: left;
+  margin-left: 20em;
+}
+.chart h1 {
+  margin-top: 1em;
+  font-size: 30px;
+}
+.chart h3 {
+  width: 650px;
+  font-weight: normal;
+  margin-top: 2em;
+  margin-bottom: 3em;
+}
+.chart-item {
+  width: 98%;
+  height: 25em;
+  margin-left: -2em;
+}

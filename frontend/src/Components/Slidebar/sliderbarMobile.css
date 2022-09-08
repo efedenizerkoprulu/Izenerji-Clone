@@ -1,0 +1,65 @@
+@media screen and (max-width: 600px) {
+    .slidebar-main {
+      background-color: #41cb83;
+      height: 25em;
+      color: white;
+    }
+  
+    .slidebar-main h4 {
+      padding-top: 8em;
+      letter-spacing: 3.5px;
+    }
+  
+    .apparnce p {
+      width: 650px;
+    }
+    .carousel-control {
+      height: 50px;
+      width: 70px;
+      margin: 5em 0em 2em 0em;
+      background-image: none;
+      background-color: #41cb83;
+      filter: none;
+      border-radius: 50%;
+      border: 3px solid white;
+      color: white;
+    }
+  
+    .slider {
+      margin-top: -70px;
+      display: flex;
+      align-items: center;
+    }
+  
+    .slider-box {
+      display: flex;
+      padding-left: 1em;
+      width: auto;
+      height: auto;
+      overflow-x: scroll;
+      overflow: hidden;
+      width: 25em;
+      box-shadow: 5em black;
+  
+      scroll-behavior: smooth;
+    }
+  
+    .item {
+      color: white;
+      margin-top: 4em;
+    }
+  
+    .item h2 {
+      width: 380px;
+      margin-bottom: 10px;
+    }
+    .item button {
+      margin-top: 2em;
+      border-color: white;
+      color: white;
+      font-weight: bold;
+      letter-spacing: 3px;
+      font-size: 12px;
+    }
+  }
+  

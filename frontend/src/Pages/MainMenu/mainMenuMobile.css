@@ -1,0 +1,69 @@
+@media screen and (max-width: 600px) {
+  .video h1,
+  h4 {
+    margin-bottom: 20px;
+  }
+  .video h4 {
+    width: 450px;
+    margin-left: 3em;
+    font-weight: normal;
+  }
+  .video h1 {
+    padding-top: 1em;
+    margin-left: -1em;
+  }
+  .video button {
+    border-color: #41cb83;
+    color: #41cb83;
+    font-weight: bold;
+    letter-spacing: 3.05px;
+    margin-left: 10px;
+  }
+  .browser-head {
+    margin-top: 2em;
+    margin-left: 65px;
+    background-color: lightgray;
+    width: 476px;
+    height: 40px;
+    padding: 5px;
+  }
+  .browser-head li {
+    display: inline;
+  }
+  .browser-frame img {
+    margin-left: 34px;
+    width: 478px;
+    height: 300px;
+  }
+  #browser-button-red {
+    width: 30px;
+    height: auto;
+    margin-left: -280px;
+    margin-top: -5px;
+  }
+  #browser-button-yellow {
+    width: 20px;
+    height: auto;
+    margin-left: -375px;
+    margin-top: -10px;
+  }
+
+  #browser-button-green {
+    width: 20px;
+    height: auto;
+    margin-left: -475px;
+    margin-top: -10px;
+  }
+  .refarence li {
+    display: inline;
+    list-style-type: none;
+    margin-left: 1em;
+  }
+  .refarence ul {
+    padding: 2em;
+    margin-left: -3em;
+  }
+  .refarence img {
+    width: 140px;
+  }
+}
